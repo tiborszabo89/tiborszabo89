@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiborszabo89
+- 👋 Hi, I’m Tibor Szabó // @tiborszabo89
 - 👀 I’m working with ... Frontend development, Wordpress custom themes and plugins, Webdesign, Project Management
 - 🌱 I’m currently learning ...ReactJS, Typescript, Deployment
 - ✨ I'm interested in UI Design and Digital Marketing
