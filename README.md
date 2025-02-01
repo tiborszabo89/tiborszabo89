@@ -4,7 +4,7 @@
 - ✨ I'm interested in UI Design and Digital Marketing
 - 📫 How to reach me ... @ my linkedin : www.linkedin.com/in/tibor-szabó-dev
 - 📫 tibor.szabo.dev@gmail.com || hello@grapplinghook.net
-- 🪝 Freelancer at tibor.grapplinghook.net 
+- 🪝 Freelancer at https://tibor.grapplinghook.net 
 
 
 
